@@ -41,3 +41,18 @@ h5{
   color: black;
   font-size: 1rem;
 }
+.uno:hover{
+  color: rgb(82, 4, 108);
+}
+.dos:hover{
+  color: rgb(35, 98, 23);
+}
+.tres:hover{
+  color:rgb(14, 95, 106);
+}
+.cuatro:hover{
+  color:rgb(121, 0, 26);
+}
+.cinco:hover{
+  color: rgb(101, 49, 1);
+}
