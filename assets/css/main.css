@@ -1,6 +1,8 @@
 #menu{
   font-family: 'PT Sans', sans-serif;
   color:#6a6868;
+  margin-left: 3%;
+  width: 96%;
 }
 .size{
   font-size: 40px;
